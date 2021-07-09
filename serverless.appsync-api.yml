@@ -12,9 +12,9 @@ mappingTemplates:
     dataSource: usersTable
 
   - type: Mutation
-      field: editMyProfile
-      dataSource: usersTable
-      
+    field: editMyProfile
+    dataSource: usersTable
+
 dataSources:
   - type: NONE
     name: none
